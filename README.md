@@ -21,7 +21,7 @@ Built using a clean and maintainable architecture by applying the **Business Cod
 
 - **Framework**: ASP.NET Core
 - **Language**: C#
-- **Database**: SQL Server
+- **Database**: SQL Server Management
 - **ORMs**:
   - Dapper (for lightweight, performant queries)
   - Entity Framework Core (for quick scaffolding & migrations)
